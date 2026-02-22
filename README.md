@@ -1,5 +1,5 @@
-🏥 Hospital Operations Analytics (SQL Project)
-📌 Project Overview
+##🏥 Hospital Operations Analytics (SQL Project)
+#📌 Project Overview
 
 This project simulates a relational hospital management system and applies advanced SQL queries to analyze operational performance, financial metrics, and patient trends.
 
